@@ -6,10 +6,10 @@ This repository houses a detailed analysis of the Online Retail Data Set using P
 
 The Online Retail Data Set provides transactional records of a UK-based online retail store from 2010 to 2011. For this project, the data was processed using Power BI to derive meaningful insights and answer the following key questions:
 
-1. **Question 1:** [Brief description of the question and insights derived]
-2. **Question 2:** [Brief description of the question and insights derived]
-3. **Question 3:** [Brief description of the question and insights derived]
-4. **Question 4:** [Brief description of the question and insights derived]
+1. **Question 1:** The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only
+2. **Question 2:** The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. 
+3. **Question 3:** The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers.
+4. **Question 4:** The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. 
 
 ## Structure
 
