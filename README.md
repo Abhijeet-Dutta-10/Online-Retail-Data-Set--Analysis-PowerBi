@@ -1,4 +1,4 @@
-# Online Retail Data Set Analysis with Power BI
+# ONLINE RETAIL DATA SET ANALYSIS WITH POWERBI 
 
 This repository houses a detailed analysis of the Online Retail Data Set using Power BI. The analysis is structured into four distinct worksheets, each designed to answer specific questions by cleaning and visualizing the data effectively.
 
@@ -19,7 +19,7 @@ The repository is organized as follows:
 - **PowerBI_Workbooks:** Includes the Power BI workbook (.pbix file) with four worksheets corresponding to each question.
 - **ScreenShot:** For users reference , I have took the Screenshots of all the Four Analysis so that you can access them easily .
 
-## Usage
+## How to Use
 
 To explore the analysis:
 
@@ -32,4 +32,12 @@ To explore the analysis:
 
 Contributions are welcome! If you find any issues or improvements, please feel free to open an issue or submit a pull request.
 
-Contact : +91 6383854650
+## Credits
+This analysis was conducted by ABHIJEET DUTTA as a personal project to showcase the power of data visualization. The dataset used for this analysis was sourced from Kaggle.
+
+## Feedback
+Your feedback is valuable! If you have any questions, suggestions, or feedback regarding the dashboard, please don't hesitate to get in touch.
+
+- Feel free to Contact me . Gmail = theabhijeet10@gmail.com
+
+## THANK YOU
